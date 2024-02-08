@@ -1,1 +1,2 @@
-### Here I will eventually add the codes, config, documents and other notes for creating an application project and try to use all DevOps/SRE practices that I know and learn along the way.
+### NOTE!!!
+#### This branch is only used for the github pages and it does not hold the latest version of the code.
